@@ -1,3 +1,4 @@
+![FactQA](./assets/FactQA.png)
 # FactQA Atropos
 
 A factual question-answering environment designed to work both standalone and with the Atropos reinforcement learning framework. This project demonstrates how to create a custom environment that rewards language models for providing accurate and concise answers to factual questions.
